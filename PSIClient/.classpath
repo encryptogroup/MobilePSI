@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="/Users/liuj7/Documents/ec-spride-ecp-precomputed-psi/src/structure/PSIClient/libs/core-1.54.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liuj7/Documents/ec-spride-ecp-precomputed-psi/src/structure/PSIClient/libs/prov-1.54.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liuj7/Documents/ec-spride-ecp-precomputed-psi/src/structure/PSIClient/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/liuj7/Documents/ec-spride-ecp-precomputed-psi/src/structure/PSIClient/libs/commons-cli-1.2.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
